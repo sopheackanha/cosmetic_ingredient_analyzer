@@ -3,3 +3,12 @@ The Cosmetic Ingredient Safety Analyzer is a lightweight machine learning system
 ## Problem Statement
 Most people are not aware of the scientific terms or chemical ingredients in beauty products. Doing research one by one about those ingredients is inconvenient and time consuming. In some cases, the manufacturer might use alternative terms for the ingredient, which can be confusing for non-expert consumers.Thus, people might just pick whatever products that are on trend without knowing its side effects or whether they are suitable for them, leading to further problems such as allergy, cancer, and so on.
 ## Installation
+```
+python -m venv venv
+```
+```
+venv\Scripts\activate
+```
+```
+pip install -r requirements.txt
+```
