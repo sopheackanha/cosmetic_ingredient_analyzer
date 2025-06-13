@@ -16,7 +16,7 @@ pip install -r requirements.txt
 My specific work on this project included:
 - Data collection: downloading and cleaning CosIng Annex II and Hugging Face datasets
 - Data preprocessing: cleaning and standardizing ingredient names
-- Model development: TI-IDF feature extraction and training Logistic Regression for binary classification
+- Model development: TF-IDF feature extraction and training Logistic Regression for binary classification
 - OCR integration: built a pipeline using pytesseract to extract ingredients from images
 - Evaluation: generated metric, confusion matrix, and tested edge cases (like substring false positive, etc)
 - Report writing: summarizing methodology, performance, and potential extensions
